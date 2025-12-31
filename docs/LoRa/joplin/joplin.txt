@@ -1,3 +1,0 @@
-nextcloud server: https://vehement-catfish.pikapod.net/
-nextcloud username: wofl
-nextcloud pass: Spool-Moocher6-Skewed
